@@ -1,0 +1,66 @@
+﻿languageDataXML = 
+<data>
+
+<item name='pauseTitle'><en>GAME PAUSED</en></item>
+<item name='submitScoresBtn'><en>SUBMIT</en></item>
+<item name='submitSkilladdictionScoresBtn'><en>SUBMIT</en></item>
+<item name='timeTitle'><en>time</en></item>
+<item name='levelTitle'><en>LEVEL</en></item>
+<item name='healthTitle'><en>HEALTH</en></item>
+<item name='scoreTitle'><en>SCORE</en></item>
+<item name='nextGameBtn'><en>NEXT</en></item>
+<item name='startGameBtn'><en>PLAY</en></item>
+<item name='mainMenuBtn'><en>MENU</en></item>
+<item name='helpBtn'><en>HELP</en></item>
+<item name='highscoresBtn'><en>SCORES</en></item>
+<item name='highscoresGameWinsBtn'><en>TOP WINS</en></item>
+<item name='goGameBtn'><en>GO GAME</en></item>
+<item name='medalsBtn'><en>MEDALS</en></item>
+<item name='inGameTitle'><en>GAME</en></item>
+<item name='resumeBtn'><en>RESUME</en></item>
+<item name='moreGamesBtn'><en>MORE GAMES</en></item>
+<item name='changeThemeBtn'><en> OPTIONS </en></item>
+<item name='buyItemsBtn'><en>BUY ITEMS</en></item>
+<item name='bonusTimeTitle'><en>bonus</en></item>
+<item name='moveText'><en>MOVE</en></item>
+<item name='fireText'><en>FIRE</en></item>
+<item name='fireSubText'><en>hold down space to fire</en></item>
+<item name='nextLvlGameBtn'><en>NEXT</en></item>
+<item name='finalScoreTitle'><en>FINAL SCORE</en></item>
+<item name='youCollectedARelic'><en>You collected a Relic</en></item>
+
+<item name='trackScoreTitle'><en>ROOT SCORE</en></item>
+<item name='totalScoreTitle'><en>TOTAL SCORE</en></item>
+
+<item name='upgradePanel_1_Title'><en>LIGHTS</en></item>
+<item name='upgradePanel_1_Desc'><en>Allows you to see further, the deeper you dive - the darker it gets</en></item>
+
+<item name='upgradePanel_5_Title'><en>CARGO</en></item>
+<item name='upgradePanel_5_Desc'><en>Increase the amount of treasure your sub can  carry</en></item>
+
+<item name='upgradePanel_2_Title'><en>ENGINE</en></item>
+<item name='upgradePanel_2_Desc'><en>Increase the speed at which your sub can move</en></item>
+
+<item name='upgradePanel_3_Title'><en>OXYGEN</en></item>
+<item name='upgradePanel_3_Desc'><en>Increase the amount of time your can dive for</en></item>
+
+<item name='upgradePanel_4_Title'><en>HULL</en></item>
+<item name='upgradePanel_4_Desc'><en>Allow the sub to withstand higher pressures when diving deep</en></item>
+
+<item name='costText'><en>COST</en></item>
+<item name='levelText'><en>LEVEL</en></item>
+
+<item name='GameOverMessage_timeUp'><en>YOU RAN OUT OF TIME</en></item>
+<item name='GameOverMessage_playerDied'><en>YOU DESTROYED YOUR CAR</en></item>
+<item name='initialisingGame'><en>TRAVELING TO DIVE SPOT</en></item>
+<item name='pressureToHighMessage'><en>PRESSURE TOO HIGH</en></item>
+<item name='errorLevelLocked'><en>LEVEL IS LOCKED</en></item>
+<item name='outOfOxygen'><en>YOU CAR HAS BEEN DESTROYED</en></item>
+<item name='returnToSurface'><en>GET TO THE FINISH LINE TO KEEP THE ITEMS YOU COLLECT</en></item>
+<item name='lowTime'><en>WARNING: TIME ALMOST OVER</en></item>
+<item name='timeUp'><en>TIME UP</en></item>
+<item name='levelDistanceTitle'><en>LEVEL DISTANCE</en></item>
+<item name='totalDistanceTitle'><en>TOTAL DISTANCE</en></item>
+
+</data>
+

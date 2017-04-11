@@ -1,0 +1,48 @@
+﻿package com.terrypaton.ui
+{
+	import com.terrypaton.events.*;
+	import com.terrypaton.utils.Broadcaster;
+	
+	
+	import flash.display.*;
+	import flash.events.*;
+	import flash.utils.*;
+	public class btnClass extends MovieClip
+	{
+		
+		public function btnClass (_ref:MovieClip)
+		{
+			//trace("btnClass 2")
+			ref = _ref
+			ref.mouseChildren = false
+			ref.addEventListener (MouseEvent.MOUSE_DOWN, mouseDownBTNHandler);
+			ref.addEventListener (MouseEvent.MOUSE_OVER, mouseOverBTNHandler);
+			ref.addEventListener (MouseEvent.MOUSE_OUT, mouseOutBTNHandler);
+			//dispatchEvent(new ButtonEvent(ButtonEvent.GET_LANGUAGE, true));
+			ref.buttonMode = true
+			data.name = ref.name
+			data.target = ref
+		}
+		
+		private function mouseDownBTNHandler (e : MouseEvent) : void
+		{
+			trace(e)
+		
+			
+			//Broadcaster.dispatchEvent(new ButtonEvent(ButtonEvent.DOWN, true,data));
+				
+		}
+		private function mouseOutBTNHandler (e : MouseEvent) : void
+		{
+			//Broadcaster.dispatchEvent(new ButtonEvent(ButtonEvent.OUT, true,data));
+		}
+		
+		private function mouseOverBTNHandler (e : MouseEvent) : void{
+		  
+			//Broadcaster.dispatchEvent(new ButtonEvent(ButtonEvent.OVER, true, data));
+		}
+		private var data:Object = new Object()
+		private var ref:MovieClip
+		
+	}
+}

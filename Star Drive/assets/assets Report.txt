@@ -1,0 +1,156 @@
+﻿assets.swf Movie Report
+------------------------
+
+Frame #    Frame Bytes    Total Bytes    Scene
+-------    -----------    -----------    -----
+      1         569757         569757    Scene 1 (AS 3.0 Classes Export Frame)
+
+Scene      Shape Bytes    Text Bytes    ActionScript Bytes
+-------    -----------    ----------    ------------------
+Scene 1              0             0                 11294
+
+Symbol                          Shape Bytes    Text Bytes    ActionScript Bytes
+----------------------------    -----------    ----------    ------------------
+blackBar                                 39             0                     0
+cityScape1                                0             0                     0
+cover                                  3761             0                     0
+effectHolder                              0             0                     0
+<Group>                                   0             0                     0
+grad1                                    69             0                     0
+grad2                                     0             0                     0
+grad3                                     0             0                     0
+shape 2                                   0             0                     0
+shape 150 (Hit)                         831             0                     0
+shape 207                              3331             0                     0
+shape 432                             10873             0                     0
+shape 482                                 0             0                     0
+shape 612 (Hit)                           0             0                     0
+shape 640                                 0             0                     0
+shape 642                                 0             0                     0
+shape 643                                 0             0                     0
+shape 644                                 0             0                     0
+shape 650                                 0             0                     0
+shape 651                                 0             0                     0
+shape 695                                 0             0                     0
+shape 697                                 0             0                     0
+shape 807                                 0             0                     0
+shape 1089                                0             0                     0
+shape 5338 (Down Hit)                   151             0                     0
+shape bg over all 2                     141             0                     0
+shapstar e 4527                         499             0                     0
+shgffgapfe 3813                        2271             0                     0
+somoreuthape 612 (Hit)                    0             0                     0
+sounamethape 612 (Hit)                    0             0                     0
+southape 612 (Hit)                        0             0                     0
+sfgprite 3814                             0             0                     0
+sprite 151 (Up)                           0             0                     0
+sprite 208                                0             0                     0
+sprite 613 (Up)                           0             0                     0
+sprite 696                                0             0                     0
+Symbol 2  y8                              0             0                     0
+Symbol 3  y8                              0             0                     0
+Symbol 9   y8                             0             0                     0
+Symbol 10 y8                              0             0                     0
+a_backgroundClip                          0             0                     0
+a_mochiLoader                             0            38                     0
+mochiLoadClip                           115             0                     0
+specialEndingBackground                  27             0                     0
+arrowButton                               0             0                     0
+assets_pauseOverlay                       0            55                     0
+continueButton                            0            42                     0
+introLogo                                 0            42                     0
+plmoreayBtn                               0            36                     0
+pauseScreenBack                          42             0                     0
+assets_screen_game_complete              52           279                     0
+submitScoreBtn                            0            50                     0
+panel                                     0             0                     0
+menuBtn                                   0            39                     0
+assets_sponsorLogo                        0             0                     0
+specialEffectsLayer                       0            42                     0
+assets_screen_gameover                   52           239                     0
+continuePlayBtn                           0            70                     0
+sponsorButton                             0            52                     0
+assets_screen_highscores                  0            99                     0
+backgroundLayer                           0            47                     0
+assets_screen_Intro                       0             0                     0
+gameIntro_g2                              0            72                     0
+gameIntroLogo                             0            67                     0
+assets_screen_level_chooser              52            48                     0
+levelChooserPin                         495           225                     0
+focusClip                                 0             0                     0
+levelChooserCurrentScoreClip              0           153                     0
+assets_screen_level_complete             52           401                     0
+playBtn                                   0            27                     0
+assets_screen_mainMenu                    0             0                     0
+Y8 logo h                                 0             0                     0
+scoresBtn                                 0            30                     0
+bubbleHolder                              0           106                     0
+assets_soundControls                      0             0                     0
+muteMusicButton                         189             0                     0
+muteButton                              275             0                     0
+backgroundHolder                          0             0                     0
+btnsheen                                  0             0                     0
+btnSheenClip1                             0             0                     0
+bumorettonInner                           0             0                     0
+buttonInner                               0             0                     0
+markerLines                              58             0                     0
+y8_logo   y8                              0             0                     0
+helpBack2                                 0             0                     0
+helpFrame2                                0             0                     0
+keyInstructions                           0             0                     0
+tick                                    137             0                     0
+smallButtonBack                         435             0                     0
+note                                      0             0                     0
+pinNormal                                 0             0                     0
+spaceBar                                  0             0                     0
+titleTab                                  0             0                     0
+upgradeBtn                                0             0                     0
+upgradePanel                              0             0                     0
+upgradePanelback                          0             0                     0
+upgradeScreenBtn                          0             0                     0
+tireClip                                  0             0                     0
+tireTracks                                0             0                     0
+7k7klogo                                  0             0                     0
+
+Font Name                Bytes         Characters
+---------------------    ----------    ----------
+_sans                            18    
+HollywoodHills                  696     ALPYacegilmnos 
+FTYSPEEDYCASUAL001NCV         94766     !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ ¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħĨĩĪīĬĭĮįİıĲĳĴĵĶķĸĹĺĻļĽľĿŀŁłŃńŅņŇňŊŋŌōŎŏŐőŒœŔŕŖŗŘřŚśŜŝŞşŠšŢţŤťŦŧŨũŪūŬŭŮůŰűŲųŴŵŶŷŸŹźŻżŽžƒƠơƯưǺǻǼǽǾǿȀȁȂȃȄȅȆȇȈȉȊȋȌȍȎȏȐȑȒȓȔȕȖȗȘșȚțȲȳȷˆˇˉ˘˙˚˛˜˝μẞ–—‘’‚“”„†‡•…‰‹›€™
+ArialMT                      238110     !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ ¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħĨĩĪīĬĭĮįİıĲĳĴĵĶķĸĹĺĻļĽľĿŀŁłŃńŅņŇňŉŊŋŌōŎŏŐőŒœŔŕŖŗŘřŚśŜŝŞşŠšŢţŤťŦŧŨũŪūŬŭŮůŰűŲųŴŵŶŷŸŹźŻżŽžſƀƁƂƃƄƅƆƇƈƉƊƋƌƍƎƏƐƑƒƓƔƕƖƗƘƙƚƛƜƝƞƟƠơƢƣƤƥƦƧƨƩƪƫƬƭƮƯưƱƲƳƴƵƶƷƸƹƺƻƼƽƾƿǀǁǂǃǄǅǆǇǈǉǊǋǌǍǎǏǐǑǒǓǔǕǖǗǘǙǚǛǜǝǞǟǠǡǢǣǤǥǦǧǨǩǪǫǬǭǮǯǰǱǲǳǴǵǶǷǸǹǺǻǼǽǾǿȀȁȂȃȄȅȆȇȈȉȊȋȌȍȎȏȐȑȒȓȔȕȖȗȘșȚțȜȝȞȟȠȡȢȣȤȥȦȧȨȩȪȫȬȭȮȯȰȱȲȳȴȵȶȷȸȹȺȻȼȽȾȿɀɁɂɃɄɅɆɇɈɉɊɋɌɍɎɏɐɑɔɛɡɪɵʃʊˆˇˉˊˋˍː˘˙˚˛˜˝ʹ͵Ͷͷͺͻͼͽ;΄΅Ά·ΈΉΊΌΎΏΐΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩΪΫάέήίΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώϏϐϑϒϓϔϕϖϗϘϙϚϛϜϝϞϟϠϡϢϣϤϥϦϧϨϩϪϫϬϭϮϯϰϱϲЀЁЂЃЄЅІЇЈЉЊЋЌЍЎЏАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяѐёђѓєѕіїјљњћќѝўџѠѡѢѣѤѥѦѧѨѩѪѫѬѭѮѯѰѱѲѳѴѵѶѷѸѹѺѻѼѽѾѿҀҁ҂҃҄҅҆҇҈҉ҊҋҌҍҎҏҐґҒғҔҕҖҗҘҙҚқҜҝҞҟҠҡҢңҤҥҦҧҨҩҪҫҬҭҮүҰұҲҳҴҵҶҷҸҹҺһҼҽҾҿӀӁӂӃӄӅӆӇӈӉӊӋӌӍӎְֱֲֳִֵֶַָֹֺֻּֽ־ֿ׀ׁׂ׃ׅׄ׆ׇאבגדהוזחטיךכלםמןנסעףפץצקרשתװױײ׳״؀؁؂؃؄؆؇؈؉؊؋،؍؎؏ؘؙؚؐؑؒؓؔؕؖؗ؛؞؟ؠءآأؤإئابةتثجحخدذرزسشصضطظعغػؼؽؾؿـفقكلمنهوىيًٌٍَُِّْٕٖٜٟٓٔٗ٘ٙٚٛٝٞ٠١٢٣٤٥٦٧٨٩٪٫٬٭ٮٯٰٱٲٳٴٵٶٷٸٹٺٻټٽپٿڀځڂڃڄڅچڇڈډڊڋڌڍڎڏڐڑڒړڔڕږڗژڙښڛڜڝڞڟڠڡڢڣڤڥڦڧڨکڪګڬڭڮگڰڱڲڳڴڵڶڷڸڹںڻڼڽھڿۀہۂۃۄۅۆۇۈۉۊۋیۍێۏېۑےۓ۔ەۖۗۘۙۚۛۜ۝۞ۣ۟۠ۡۢۤۥۦۧۨ۩۪ۭ۫۬ۮۯ۰۱۲۳۴۵۶۷۸۹ۺۻۼ۽۾ۿḀḁḂḃḄḅḆḇḈḉḊḋḌḍḎḏḐḑḒḓḔḕḖḗḘḙḚḛḜḝḞḟḠḡḢḣḤḥḦḧḨḩḪḫḬḭḮḯḰḱḲḳḴḵḶḷḸḹḺḻḼḽḾḿṀṁṂṃṄṅṆṇṈṉṊṋṌṍṎṏṐṑṒṓṔṕṖṗṘṙṚṛṜṝṞṟṠṡṢṣṤṥṦṧṨṩṪṫṬṭṮṯṰṱṲṳṴṵṶṷṸṹṺṻṼṽṾṿẀẁẂẃẄẅẆẇẈẉẊẋẌẍẎẏẐẑẒẓẔẕẖẗẘẙẚẛẜẝẞẟẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹỺỻỼỽỾỿἀἁἂἃἄἅἆἇἈἉἊἋἌἍἎἏἐἑἒἓἔἕἘἙἚἛἜἝἠἡἢἣἤἥἦἧἨἩἪἫἬἭἮἯἰἱἲἳἴἵἶἷἸἹἺἻἼἽἾἿὀὁὂὃὄὅὈὉὊὋὌὍὐὑὒὓὔὕὖὗὙὛὝὟὠὡὢὣὤὥὦὧὨὩὪὫὬὭὮὯὰάὲέὴήὶίὸόὺύὼώᾀᾁᾂᾃᾄᾅᾆᾇᾈᾉᾊᾋᾌᾍᾎᾏᾐᾑᾒᾓᾔᾕᾖᾗᾘᾙᾚᾛᾜᾝᾞᾟᾠᾡᾢᾣᾤᾥᾦᾧᾨᾩᾪᾫᾬᾭᾮᾯᾰᾱᾲᾳᾴᾶᾷᾸᾹᾺΆᾼ᾽ι᾿῀῁ῂῃῄῆῇῈΈῊΉῌ῍῎῏ῐῑῒΐῖῗῘῙῚΊ῝῞῟ῠῡῢΰῤῥῦῧῨῩῪΎῬ῭΅`ῲῳῴῶῷῸΌῺΏῼ´῾           ​‌‍‎‏‒–—―‖‗‘’‚‛“”„‟†‡•…‪‫‬‭‮ ‰′″‴‹›‼‽‾⁄⁞⁪⁫⁬⁭⁮⁯⁴ⁿ₠₡₢₣₤₥₦₧₨₩₪₫€₭₮₯₰₱₲₳₴₵₶₷₸₹₺℅ℓ№℗™Ω℮⅍ⅎ⅓⅔⅛⅜⅝⅞←↑→↓↔↕∂∏∑∕√∞∟∩∫≠≡≤≥─│┌┐└┘├┤┬┴┼═║╒╓╔╕╖╗╘╙╚╛╜╝╞╟╠╡╢╣╤╥╦╧╨╩╪╫╬▄█▌▒▓■□▲▼○●♀♂♠♣♥♪♯ꜗꜘꜙꜚꜛꜜꜝꜞꜟ꜠꜡ꞈ꞉꞊Ꞌꞌיִﬞײַﬠﬡﬢﬣﬤﬥﬦﬧﬨ﬩שׁשׂשּׁשּׂאַאָאּבּגּדּהּוּזּטּיּךּכּלּמּנּסּףּפּצּקּרּשּתּוֹבֿכֿפֿﭏﭐﭑﭒﭓﭔﭕﭖﭗﭘﭙﭚﭛﭜﭝﭞﭟﭠﭡﭢﭣﭤﭥﭦﭧﭨﭩﭪﭫﭬﭭﭮﭯﭰﭱﭲﭳﭴﭵﭶﭷﭸﭹﭺﭻﭼﭽﭾﭿﮀﮁﮂﮃﮄﮅﮆﮇﮈﮉﮊﮋﮌﮍﮎﮏﮐﮑﮒﮓﮔﮕﮖﮗﮘﮙﮚﮛﮜﮝﮞﮟﮠﮡﮢﮣﮤﮥﮦﮧﮨﮩﮪﮫﮬﮭﮮﮯﮰﮱ﮲﮳﮴﮵﮶﮷﮸﮹﮺﮻﮼﮽﮾﮿﯀﯁ﯓﯔﯕﯖﯗﯘﯙﯚﯛﯜﯝﯞﯟﯠﯡﯢﯣﯤﯥﯦﯧﯨﯩﯼﯽﯾﯿﱞﱟﱠﱡﱢﱣﳲﳳﳴﴼﴽ﴾﴿ﷲﷴﷺﷻ﷼﷽ﹰﹱﹲﹳﹴﹶﹷﹸﹹﹺﹻﹼﹽﹾﹿﺀﺁﺂﺃﺄﺅﺆﺇﺈﺉﺊﺋﺌﺍﺎﺏﺐﺑﺒﺓﺔﺕﺖﺗﺘﺙﺚﺛﺜﺝﺞﺟﺠﺡﺢﺣﺤﺥﺦﺧﺨﺩﺪﺫﺬﺭﺮﺯﺰﺱﺲﺳﺴﺵﺶﺷﺸﺹﺺﺻﺼﺽﺾﺿﻀﻁﻂﻃﻄﻅﻆﻇﻈﻉﻊﻋﻌﻍﻎﻏﻐﻑﻒﻓﻔﻕﻖﻗﻘﻙﻚﻛﻜﻝﻞﻟﻠﻡﻢﻣﻤﻥﻦﻧﻨﻩﻪﻫﻬﻭﻮﻯﻰﻱﻲﻳﻴﻵﻶﻷﻸﻹﻺﻻﻼ￼
+
+ActionScript Bytes    Location
+------------------    --------
+               294    Scene 1:Frame 1:a_backgroundClip
+               377    Scene 1:Frame 1:a_mochiLoader
+               556    Scene 1:Frame 1:assets_fla.MainTimeline
+               400    Scene 1:Frame 1:assets_fla.continueButton_8
+               404    Scene 1:Frame 1:assets_fla.continuePlayBtn_24
+               438    Scene 1:Frame 1:assets_fla.levelChooserPin_33
+               388    Scene 1:Frame 1:assets_fla.menuBtn_16
+               394    Scene 1:Frame 1:assets_fla.muteButton_47
+               404    Scene 1:Frame 1:assets_fla.muteMusicButton_45
+               388    Scene 1:Frame 1:assets_fla.playBtn_37
+               424    Scene 1:Frame 1:assets_fla.plmoreayBtn_12
+               392    Scene 1:Frame 1:assets_fla.scoresBtn_42
+               428    Scene 1:Frame 1:assets_fla.sponsorButton_23
+               402    Scene 1:Frame 1:assets_fla.submitScoreBtn_21
+               725    Scene 1:Frame 1:assets_level_complete
+               655    Scene 1:Frame 1:assets_pauseOverlay
+               430    Scene 1:Frame 1:assets_screen_Intro
+               575    Scene 1:Frame 1:assets_screen_game_complete
+               492    Scene 1:Frame 1:assets_screen_gameover
+               346    Scene 1:Frame 1:assets_screen_highscores
+               897    Scene 1:Frame 1:assets_screen_level_chooser
+               848    Scene 1:Frame 1:assets_screen_mainMenu
+               340    Scene 1:Frame 1:assets_soundControls
+               297    Scene 1:Frame 1:assets_sponsorLogo
+
+Bitmap            Compressed    Original      Compression
+--------------    ----------    ----------    -----------
+image 1               188095       1152000    Lossless
+7K7K-logo1.png          4514         41600    JPEG Quality=80
+
+
+
+
